@@ -6,6 +6,7 @@ WHITE='\033[0;97m'
 RED='\033[0;31m'
 YELLOW='\033[1;33m'
 GREEN='\033[0;32m'
+MAGENTA='\033[0;95m'
 RESET='\033[0m'
 
 # Direktori skrip saat ini
