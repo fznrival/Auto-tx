@@ -12,6 +12,19 @@ RESET='\033[0m'
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$SCRIPT_DIR" || exit
 
+# Fungsi untuk menampilkan header
+display_header() {
+    clear
+    echo -e "${MAGENTA}====================================${RESET}"
+    echo -e "${MAGENTA}=        Auto Transaction Bot      =${RESET}"
+    echo -e "${MAGENTA}=        Created by fznrival       =${RESET}"
+    echo -e "${MAGENTA}=       https://t.me/fznrival      =${RESET}"
+    echo -e "${MAGENTA}====================================${RESET}"
+    echo ""
+    echo ""
+    echo ""
+}
+
 # Fungsi untuk menampilkan timestamp
 log_timestamp() {
     echo -e "${GREEN}[$(date '+%Y-%m-%d %H:%M:%S')]${RESET} $1"
@@ -130,6 +143,7 @@ EOL
 
 # Fungsi utama
 main() {
+    display_header
     if [ ! -f "$SCRIPT_DIR/rpc_mainnet.json" ]; then
         log_timestamp "${RED}File rpc_mainnet.json tidak ditemukan di $SCRIPT_DIR!${RESET}"
         exit 1
