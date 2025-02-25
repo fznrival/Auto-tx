@@ -16,7 +16,7 @@ Sebelum menjalankan skrip ini, pastikan sistem Anda memenuhi persyaratan berikut
 ## 📌 Cara Menggunakan
 1. **Clone repository** atau unduh skrip ini secara langsung:
    ```bash
-   git clone https://github.com/fznrival/Auto-tx.git && cd repo && chmod +x testnet.sh && chmod +x mainnet.sh
+   git clone https://github.com/fznrival/Auto-tx.git && cd Auto-tx && chmod +x testnet.sh && chmod +x mainnet.sh
    ```
 2. **Jalankan skrip testnet** menggunakan perintah berikut:
    ```bash
