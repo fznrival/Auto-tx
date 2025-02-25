@@ -29,7 +29,7 @@ Sebelum menjalankan skrip ini, pastikan sistem Anda memenuhi persyaratan berikut
    
 
 ## ⚙️ Konfigurasi
-Anda dapat mengedit parameter dalam skrip sesuai kebutuhan dengan membuka file `testnet.sh` dan menyesuaikan bagian yang diperlukan.
+Anda dapat mengedit parameter dalam skrip sesuai kebutuhan dengan membuka file `testnet.sh` dan `mainnet.sh` untuk menyesuaikan bagian yang diperlukan.
 
 ## 📜 Lisensi
 Skrip ini dirilis di bawah lisensi MIT. Gunakan dengan bijak dan kontribusi sangat diterima!
