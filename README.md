@@ -35,5 +35,5 @@ Anda dapat mengedit parameter dalam skrip sesuai kebutuhan dengan membuka file `
 Skrip ini dirilis di bawah lisensi MIT. Gunakan dengan bijak dan kontribusi sangat diterima!
 
 ## 📞 Kontak & Dukungan
-Jika Anda mengalami kendala atau memiliki pertanyaan, silakan buat issue di repository ini atau hubungi kami melalui [https://t.me/fznrival].
+Jika Anda mengalami kendala atau memiliki pertanyaan, silakan buat issue di repository ini atau hubungi kami melalui Telegram (https://t.me/fznrival).
 
