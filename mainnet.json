@@ -1,0 +1,9 @@
+[
+  {
+    "name": "OP Mainnet",
+    "rpcUrl": "https://mainnet.optimism.io",
+    "chainId": "18",
+    "symbol": "ETH",
+    "explorer": "https://optimistic.etherscan.io"
+  }
+]
