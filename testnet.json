@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Oasis Testnet",
+    "rpcUrl": "https://testnet.sapphire.oasis.io",
+    "chainId": "23295",
+    "symbol": "TEST",
+    "explorer": "https://testnet.explorer.sapphire.oasis.io"
+  }
+]
